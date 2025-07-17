@@ -69,9 +69,9 @@ Pandas, NumPy
 
 Scikit-learn
 
-Matplotlib / Seaborn (for data visualization)
+Matplotlib And Seaborn (for data visualization)
 
-Jupyter Notebook / VS Code
+Jupyter Notebook
 
 
 
